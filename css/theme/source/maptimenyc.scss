@@ -31,6 +31,10 @@ $linkColor: #00008B;
 $linkColorHover: lighten( $linkColor, 20% );
 $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
 
+.text-black {
+  background: rgba(255,255,255, 0.3);
+}
+
 
 
 // Theme template ------------------------------
